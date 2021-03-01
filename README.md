@@ -7,6 +7,3 @@ This is a personal business card. Imagine every time you wanted to give someone 
 
 
 
-
-# Contact-Me
-# Contact-Me
